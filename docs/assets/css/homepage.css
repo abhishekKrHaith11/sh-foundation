@@ -25,3 +25,11 @@ section {
 .site-logo img {
     width: 300px;
 }
+
+.activities .activity-thumbnail {
+    width: 100%;
+}
+
+.events .event-thumbnail {
+    max-width: 100%;
+}
